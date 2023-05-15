@@ -1,2 +1,1 @@
-# memo
-This is personal notes.
+# This is just a memo
